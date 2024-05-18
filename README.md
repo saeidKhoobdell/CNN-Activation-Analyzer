@@ -28,7 +28,7 @@ GradCAM (Gradient-weighted Class Activation Mapping) is a technique that produce
 Clone this repository and open the notebooks to explore the various visualization techniques.
 
 ```sh
-git clone https://github.com/yourusername/BreadcrumbsCNN-Activation-Analyzer.git
+git clone https://github.com/saeidkhoobdell/CNN-Activation-Analyzer.git
 
 ```
 
