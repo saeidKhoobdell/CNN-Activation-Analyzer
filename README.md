@@ -30,6 +30,8 @@ Clone this repository and open the notebooks to explore the various visualizatio
 ```sh
 git clone https://github.com/yourusername/CNN-Visualization-Toolkit.git
 
+```
+
 Open the notebooks using Jupyter and follow the instructions provided in each notebook to perform the visualizations.
 
 Explore the fascinating world of CNN visualizations and gain deeper insights into your deep learning models!
